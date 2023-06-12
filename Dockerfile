@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.37.0
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.9.2
 MAINTAINER 481840027@qq.com
